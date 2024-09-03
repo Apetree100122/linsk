@@ -1,5 +1,2 @@
-linsk
-linsk.exe
-*.qcow2
-bin/
-build/
+linsk  linsk.exe  *.qcow2
+bin/ build/
